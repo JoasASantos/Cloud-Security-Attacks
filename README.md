@@ -1,6 +1,28 @@
 # Cloud Security - Attacks
 
+## Google Cloud
+
+### Google Cloud Armor 8KB Request Body bypass
+
+- [https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf](https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf)
+
+### Escalating Privileges in Google Cloud from App to Cloud Access
+
+- [https://kloudle.com/academy/escalating-privileges-in-google-cloud-from-app-to-cloud-access](https://kloudle.com/academy/escalating-privileges-in-google-cloud-from-app-to-cloud-access)
+
 ## AWS
+
+### AWS WAF 8KB Request Body bypass
+
+- [https://kloudle.com/blog/the-infamous-8kb-aws-waf-request-body-inspection-limitation](https://kloudle.com/blog/the-infamous-8kb-aws-waf-request-body-inspection-limitation)
+
+### AWS RDS default insecure (no SSL/TLS) connections
+
+- [https://kloudle.com/blog/aws-rds-does-not-force-clients-to-connect-using-a-secure-transport-layer](https://kloudle.com/blog/aws-rds-does-not-force-clients-to-connect-using-a-secure-transport-layer)
+
+### AWS IAM misconfigurations allowing privilege escalation
+
+- [https://kloudle.com/academy/iam-bad-privilege-escalation-using-misconfigured-policies-in-aws-iam-webinar](https://kloudle.com/academy/iam-bad-privilege-escalation-using-misconfigured-policies-in-aws-iam-webinar)
 
 ### Privilege Escalation to SYSTEM in AWS VPN Client
 
@@ -245,4 +267,3 @@
 - https://github.com/kmcquade/awesome-azure-security
 
 - https://github.com/nccgroup/azucar
-
